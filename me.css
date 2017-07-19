@@ -1,0 +1,16 @@
+h1 {
+  text-indent: 500px;
+  border: 2px solid pink;
+}
+
+body{
+  background-color: pink;
+}
+
+#p1 {
+  text-indent: 550px;
+}
+
+/*#identityP {
+  visibility: hidden;
+}*/
